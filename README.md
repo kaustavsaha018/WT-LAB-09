@@ -1,5 +1,6 @@
 # WT-LAB-09
 <h2>Programs on Abstract Classes , Interfaces, Packages , String Handling</h2>
+<img src="https://st2.depositphotos.com/3591429/9860/i/950/depositphotos_98600322-stock-photo-programming-html-concept.jpg" width="100px" height="100px">
 <h1>Questions:-</h1>
 <h3>1. Illustrate the usage of abstract class with following Java classes – <br>
   i>An abstract class „student‟ with data member roll no, reg no and a abstract method course() <br>
