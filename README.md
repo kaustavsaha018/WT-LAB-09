@@ -2,8 +2,8 @@
 Programs on Abstract Classes , Interfaces, Packages , String Handling
 <h1>Questions:-</h1>
 <h3>1. Illustrate the usage of abstract class with following Java classes – <br>
-i>An abstract class „student‟ with data member roll no, reg no and a abstract method course() <br>
-ii>A subclass „kiitian‟ with course() method implementation</h3>
+  i>An abstract class „student‟ with data member roll no, reg no and a abstract method course() <br>
+  ii>A subclass „kiitian‟ with course() method implementation</h3>
 
 <h3>2. Define an interface Motor with a data member –capacity and two methods such as run() and consume(). 
 Define a Java class „Washing machine‟ which implements this interface and write the code to check the value of the interface data member thru an object of the class.</h3>
@@ -22,18 +22,18 @@ bonus --> 50% of basic
 In General package define a class „employee‟ with data members as empid(protected), ename(private) and a public method as earnings() which calculate total earnings as
 <br><br>
 earnings --> basic + DA (80% of basic) + HRA (15% of basic)
-<br>
+<br><br>
 In Marketing package define a class „sales‟ which is extending from „employee‟ class and has a method tallowance() which calculates Travelling Allowance as 5% of total earning.
 Write the programs to find out total earning of a sales person for the given basic salary amount and print along with the emp id.
 </h3>
 
 <h3>5. Write a program to perform following operations on user entered strings –
 <br>
-i) Change the case of the string
+  i) Change the case of the string
 <br>
-ii) Reverse the string
+  ii) Reverse the string
 <br>
-iii) Compare two strings
+  iii) Compare two strings
 <br>
-iv) Insert one string into another string
+  iv) Insert one string into another string
 </h3>
